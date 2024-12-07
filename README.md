@@ -277,7 +277,7 @@
         <body>
             <header class="header">
                 <div class="header-content">
-                    <a href="https://nysaabhi.github.io/Deepintellgence" class="logo">Deep</a>
+                    <a href="https://nysaabhi.github.io/A2" class="logo">Deep</a>
                     <button class="wallet">
                         <i class="fas fa-wallet"></i>
                         Wallet
